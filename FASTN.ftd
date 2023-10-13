@@ -1,19 +1,11 @@
 -- import: fastn
 
--- fastn.package: gargajit.github.io/test-hello
-favicon: /-/gargajit.github.io/test-hello/favicon.ico
+-- fastn.package: hello
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: fastn-community.github.io/bling
 
--- fastn.auto-import: gargajit.github.io/test-hello/FASTN/ds
--- fastn.auto-import: gargajit.github.io/test-hello/assets
--- fastn.auto-import: doc-site
+-- fastn.dependency: fastn-community.github.io/doc-site
 
--- fastn.sitemap:
 
-# Home: index.html
+-- fastn.auto-import: fastn-community.github.io/doc-site as ds
 
-- Right Sidebar Sample: /sidebar/
