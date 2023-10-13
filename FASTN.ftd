@@ -1,6 +1,6 @@
 -- import: fastn
 
--- fastn.package: hello
+-- fastn.package: test-hello
 
 -- fastn.dependency: fastn-community.github.io/bling
 
